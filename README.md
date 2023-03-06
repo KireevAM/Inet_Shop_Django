@@ -1,2 +1,1 @@
-# Inet_Shop_Django
-Internet shop
+# AKM 85
